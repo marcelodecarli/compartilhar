@@ -1,0 +1,4 @@
+Celso Teixeira,009.835.910-08,Componentes Informática,(51)     -    ,(98)2459-110 ,,(77)1228-3882,(18)8177-2788,Celso ,93.900-000,Rua Bolívia,60,Cidade Nova,Ivoti,RS,Um novo cadasro para banco de informaões.
+Alfredo Souza,088.838.950-10,Medicamentos,(51)1312-3333     -    ,(98)2459-110 ,,(77)3328-3882,(22)2222-2228,Alfredo ,93.180-012,Rua teste,12,Centro,NovoHamburgo,RS,Segundo cadasro para banco de informaões.
+Vinicius Moraes,133.232.030-12,Coombustíveis,(51)12012-3032,(98)2323-111 ,,(77)1228-4442,(18)2127-2543,Vinicius ,11.123-456,Rua Detroit,25,Cidade Baixa,Porto Alegre,RS,Terceiro cadasro para banco de informaões.
+Livia Helena,007.008.009-10,Ouro e Prata,(51)     -    ,(12)1234-9876,,(12)9876-5432,(12)4332-1324,Livia ,11.123-321,Rua Nova Iorque,123,Paulínia,São Paulo,SP,Quarto cadasro para banco de informaões.
